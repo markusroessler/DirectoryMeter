@@ -11,5 +11,5 @@ Additionaly files and directories can be marked as "expendable" (kind of the pre
 [Windows x86](https://goo.gl/kcrPUA)
 
 ## Contact
-In case you have any questions/suggestions/bugreports please contact me at:  
+In case you have any questions / suggestions / bugreports please contact me at:  
 [directorymeter@gmail.com](mailto://directorymeter@gmail.com)

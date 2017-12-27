@@ -14,5 +14,5 @@ Checksum (SHA-256): 98b9e328304947ea1018cd4e4d5d84875b26418d39dbd8d910ac7d5d479c
 Checksum (SHA-256): 3ac8e3c39a57cd64fd0ba633826d13dff0720d0c223f478703ed8cfe7aac1e89   
 
 ## Contact
-In case you have any questions / suggestions / bugreports please contact me at:  
+In case you have any questions / suggestions / bugreports please contact me at:
 [directorymeter@gmail.com](mailto://directorymeter@gmail.com)

@@ -4,7 +4,7 @@ It computes the size of selected directories (or complete drives) and all its su
 Additionaly files and directories can be marked as "expendable" (kind of the predecessor of "trash") so you can quickly find these files later to free up disk space.
 
 ## Screenshots
-<img src="https://i.imgur.com/FSeplEV.png" alt="screen1" width="400px" />
+<a href="https://i.imgur.com/FSeplEV.png"><img src="https://i.imgur.com/FSeplEV.png" alt="screen1" width="400px" /></a>
 
 ## Download
 [Windows x64](https://goo.gl/FFFvkp)  

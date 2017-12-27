@@ -11,4 +11,5 @@ Additionaly you can mark files and directories as "expendable" so you can quickl
 [Windows x86](https://github.com/markusroessler/DirectoryMeter/releases/download/1.5.0.1/DirectoryMeter.1.5.0.1.win.x86.zip)
 
 ## Contact
-roesslermarkus@gmail.com
+In case you have any questions/suggestions/bugreports please contact me at:  
+[directorymeter@gmail.com](mailto://directorymeter@gmail.com)

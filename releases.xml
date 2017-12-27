@@ -1,44 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <releases>
 	<release>
-		<version>1.3.0.3</version>
+		<version>1.5.0.1</version>
 		<changes>
+			<change>first github release</change>
 		</changes>
 		<variations>
 			<variation>
 				<name>x64</name>
-				<downloadUrl>https://goo.gl/Xty2Jr</downloadUrl>
-				<checksum>a848ed810d030e0c759a7b6bb87541e6f561d32d9f5ae51487d20bf52cf47834</checksum>
-				<size>67077234</size>
+				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/1.5.0.1/DirectoryMeter.1.5.0.1.win.x64.zip</downloadUrl>
+				<checksum>98b9e328304947ea1018cd4e4d5d84875b26418d39dbd8d910ac7d5d479cb2a5</checksum>
+				<size>70679145</size>
 			</variation>
 			<variation>
 				<name>x86</name>
-				<downloadUrl>https://goo.gl/oa3ieX</downloadUrl>
-				<checksum>beadd8cb4b52c04158b2a705c30ce5b323fc089397bab809eb60b7ec3ecfbaec</checksum>
-				<size>57896844</size>
+				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/1.5.0.1/DirectoryMeter.1.5.0.1.win.x86.zip</downloadUrl>
+				<checksum>3ac8e3c39a57cd64fd0ba633826d13dff0720d0c223f478703ed8cfe7aac1e89</checksum>
+				<size>66036964</size>
 			</variation>
 		</variations>		
-	</release>
-	<release>
-	  <version>1.3.0.4</version>
-	  <changes>
-		<change>added proxy settings for updater</change>
-		<change>optimized visualization of popups</change>
-	  </changes>
-	  
-	  <variations>  
-	<!--<variation>
-		  <name>x86</name>
-		  <downloadUrl>FILLME</downloadUrl>
-		  <checksum>6bd9a8be410fa152c4706d26ad9573b74a94f2607414650b330820268d7064e3</checksum>
-		  <size>60805568</size>
-		</variation> -->
-		<variation>
-		  <name>x64</name>
-		  <downloadUrl>https://dl.dropboxusercontent.com/s/a16p4uytasc51im/FileSizeExplorer.1.3.0.4.win.x64.zip?dl=1</downloadUrl>
-		  <checksum>7094593eeec0a8115b3e08deedc2b41c8617c499e13f9c35b26b526c096da738</checksum>
-		  <size>69985958</size>
-		</variation>
-	  </variations>
 	</release>
 </releases>

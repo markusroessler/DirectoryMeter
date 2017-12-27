@@ -7,8 +7,8 @@ Additionaly you can mark files and directories as "expendable" so you can quickl
 <img src="https://i.imgur.com/FSeplEV.png" alt="screen1" width="400px" />
 
 ## Download
-https://github.com/markusroessler/DirectoryMeter/releases/download/1.5.0.1/DirectoryMeter.1.5.0.1.win.x64.zip
-https://github.com/markusroessler/DirectoryMeter/releases/download/1.5.0.1/DirectoryMeter.1.5.0.1.win.x86.zip
+[Windows x64](https://github.com/markusroessler/DirectoryMeter/releases/download/1.5.0.1/DirectoryMeter.1.5.0.1.win.x64.zip)
+[Windows x86](https://github.com/markusroessler/DirectoryMeter/releases/download/1.5.0.1/DirectoryMeter.1.5.0.1.win.x86.zip)
 
 ## Contact
 roesslermarkus@gmail.com

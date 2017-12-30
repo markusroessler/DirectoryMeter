@@ -31,13 +31,13 @@
 		<variations>
 			<variation>
 				<name>x86</name>
-				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.2/DirectoryMeter.1.5.0.2.win.x64.zip</downloadUrl>
+				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.2/DirectoryMeter.1.5.0.2.win.x86.zip</downloadUrl>
 				<checksum>9601fbbe33b90aa3cd123157878f16707fbd6591f9e1ffd7bae2bd139207d89b</checksum>
 				<size>66044987</size>
 			</variation>
 			<variation>
 				<name>x64</name>
-				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.2/DirectoryMeter.1.5.0.2.win.x86.zip</downloadUrl>
+				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.2/DirectoryMeter.1.5.0.2.win.x64.zip</downloadUrl>
 				<checksum>b83fab8b1f40a9936c2384b59a7fc0a0694e886cbb9de198dc3739ba5cab8ef2</checksum>
 				<size>70687168</size>
 			</variation>

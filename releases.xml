@@ -30,16 +30,37 @@
 		</changes>
 		<variations>
 			<variation>
+				<name>x64</name>
+				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.2/DirectoryMeter.1.5.0.2.win.x64.zip</downloadUrl>
+				<checksum>b83fab8b1f40a9936c2384b59a7fc0a0694e886cbb9de198dc3739ba5cab8ef2</checksum>
+				<size>70687168</size>
+			</variation>
+			<variation>
 				<name>x86</name>
 				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.2/DirectoryMeter.1.5.0.2.win.x86.zip</downloadUrl>
 				<checksum>9601fbbe33b90aa3cd123157878f16707fbd6591f9e1ffd7bae2bd139207d89b</checksum>
 				<size>66044987</size>
 			</variation>
+		</variations>
+	</release>
+	<release>
+		<version>1.5.0.3</version>
+		<changes>
+			<change>settings are not overwritten with every app update anymore</change>
+			<change>some visualization adjustments</change>
+		</changes>
+		<variations>
 			<variation>
 				<name>x64</name>
-				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.2/DirectoryMeter.1.5.0.2.win.x64.zip</downloadUrl>
-				<checksum>b83fab8b1f40a9936c2384b59a7fc0a0694e886cbb9de198dc3739ba5cab8ef2</checksum>
-				<size>70687168</size>
+				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.3/DirectoryMeter.1.5.0.3.win.x64.zip</downloadUrl>
+				<checksum>91fba320c9261c6221234c67a5459f6330ebb4d31484c78c74b8dc229811a5c4</checksum>
+				<size>70609645</size>
+			</variation>
+			<variation>
+				<name>x86</name>
+				<downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.3/DirectoryMeter.1.5.0.3.win.x86.zip</downloadUrl>
+				<checksum>0262403d6853a3c06fd9b72d2fe42cdf488b4bf4bb064c3cb2c0ad7ebf510e56</checksum>
+				<size>65967464</size>
 			</variation>
 		</variations>
 	</release>

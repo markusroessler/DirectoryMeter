@@ -67,13 +67,13 @@
 	<release>
 		<version>1.5.0.4</version>
 		<changes>
-			<change>fixed: sort by name now considers natural language rules (e.g. with german locale "ä" is placed directly after "a")</change>
-			<change>fixed: "move to trash" doesn't delete files permanently without user confirmation (Windows)</change>
-			<change>improved: "move to trash" / "delete" now runs in background so that the UI stays responsive when removing large files</change>
-			<change>improved: "move to trash" / "delete" confirmations now also list the files to be removed</change>
-			<change>new feature: occuring warnings/errors (e.g. after failed file-removal) are now displayed in a new notifications area</change>
+			<change>fixed: sort by name now considers natural language rules&#xA;(e.g. with german locale "ä" is placed directly after "a")</change>
+			<change>fixed: "move to trash" doesn't delete files permanently&#xA;without user confirmation (Windows)</change>
+			<change>improved: "move to trash" / "delete" now runs in background&#xA;so that the UI stays responsive when removing large files</change>
+			<change>improved: "move to trash" / "delete" confirmations&#xA;now also list the files to be removed</change>
+			<change>new feature: occuring warnings/errors (e.g. after failed file-removal)&#xA;are now displayed in a new notifications area</change>
 			<change>improved: visualization of file path breadcrumb</change>
-			<change>improved: current selection is now scrolled into view after sorting (known problem: sometimes the wrong file is selected)</change>
+			<change>improved: current selection is now scrolled into view after sorting&#xA;known problem: sometimes the wrong file is selected</change>
 		</changes>
 		<variations>
 			<variation>

@@ -90,4 +90,29 @@
 			</variation>
 		</variations>
 	</release>
+	<release>
+		<version>1.5.0.5</version>
+		<changes>
+		  <change>fixed: sometimes a random file is selected after sorting&#xA;instead of the selection before sort</change>
+		  <change>fixed: app not useable anymore when db gets corrupted&#xA;the db is recreated in that case now</change>
+		  <change>fixed: files displayed with size of zero&#xA;when measuring parent directory size</change>
+		  <change>new feature: file tree now automatically updated&#xA;when files are added/removed outside of the app</change>
+		  <change>improved: open files/directories with enter key</change>
+		  <change>improved: some minor visual adjustments to the updater dialog</change>
+		</changes>
+		<variations>
+		  <variation>
+		    <name>x64</name>
+		    <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.5/DirectoryMeter.1.5.0.5.win.x64.zip</downloadUrl>
+		    <checksum>6ff835fe703f67f28a1f45a265119169efa29cf570149008c734e794531726ac</checksum>
+		    <size>70664494</size>
+		  </variation>
+		  <variation>
+		    <name>x86</name>
+		    <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.5/DirectoryMeter.1.5.0.5.win.x86.zip</downloadUrl>
+		    <checksum>96b48304bd5f8c038f5731b8df8425d9f373f99e15e71d184c5a010b6eb903b5</checksum>
+		    <size>66022313</size>
+		  </variation>
+		</variations>
+	</release>
 </releases>

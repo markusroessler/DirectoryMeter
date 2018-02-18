@@ -118,7 +118,7 @@
 	<release>
 		<version>1.5.0.6</version>
 		<changes>
-		  <change>fixed: app sometimes hangs indefinitely when removing a directory with many sub-directories</change>
+		  <change>fixed: app sometimes hangs indefinitely&#xA;when removing a directory with many sub-directories</change>
 		</changes>
 		<variations>
 		  <variation>

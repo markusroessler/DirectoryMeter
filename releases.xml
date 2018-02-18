@@ -115,4 +115,24 @@
 		  </variation>
 		</variations>
 	</release>
+	<release>
+		<version>1.5.0.6</version>
+		<changes>
+		  <change>fixed: app sometimes hangs indefinitely when removing a directory with many sub-directories</change>
+		</changes>
+		<variations>
+		  <variation>
+		    <name>x64</name>
+		    <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.6/DirectoryMeter.1.5.0.6.win.x64.zip</downloadUrl>
+		    <checksum>c69ba0ff65c233ec538132da7382155e863427d590aaa8b8528c154ba274b42d</checksum>
+		    <size>70685977</size>
+		  </variation>
+		  <variation>
+		    <name>x86</name>
+		    <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.5.0.6/DirectoryMeter.1.5.0.6.win.x86.zip</downloadUrl>
+		    <checksum>127e895f6ba3003bb61e19b4357c7576c2107e1696ebb6b06d709a9f2905e41a</checksum>
+		    <size>66050078</size>
+		  </variation>
+		</variations>
+	</release>
 </releases>

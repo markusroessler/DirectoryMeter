@@ -135,4 +135,33 @@
 		  </variation>
 		</variations>
 	</release>
+	<release>
+	  <version>1.6.0</version>
+	  <changes>
+	    <change>fixed: settings proxy port field allows only 4 digits&#xA;allows a value up to 65535 now</change>
+	    <change>fixed: selected file also opens&#xA;when enter is pressed together with meta key (e.g. ctrl)</change>
+	    <change>improved: breadcrumb is now hidden&#xA;when expendable files are displayed</change>
+	    <change>improved: filenames with numbers are now sorted numerical</change>
+	    <change>improved: option to validate proxy settings</change>
+	    <change>improved: modification operations (e.g. "delete")&#xA;are now disabled on system files</change>
+	    <change>improved: jump to file by pressing the starting letter of its name</change>
+	    <change>improved: option to collapse all directories</change>
+	    <change>improved: the selected view (tree with/without chart)&#xA;is now restored after app startup</change>
+	    <change>new feature: option to update to alpha/beta versions</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.6.0/DirectoryMeter.1.6.0.win.x64.zip</downloadUrl>
+	      <checksum>7e574c82339d2adac19ed89138b062bd15b8f2cd7ab8fb883e9f011bc2c8ab9e</checksum>
+	      <size>70702704</size>
+	    </variation>
+	    <variation>
+	      <name>x86</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.6.0/DirectoryMeter.1.6.0.win.x86.zip</downloadUrl>
+	      <checksum>cccb9fe7822e1834021317a3dab5b8bccf6c72ea1d9993dbbb07fbbf8b8f20af</checksum>
+	      <size>66066813</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

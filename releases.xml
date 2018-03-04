@@ -140,6 +140,7 @@
 	  <changes>
 	    <change>fixed: settings proxy port field allows only 4 digits&#xA;allows a value up to 65535 now</change>
 	    <change>fixed: selected file also opens&#xA;when enter is pressed together with meta key (e.g. ctrl)</change>
+	    <change>improved: new app version schema (Major.Minor.Patch)</change>
 	    <change>improved: breadcrumb is now hidden&#xA;when expendable files are displayed</change>
 	    <change>improved: filenames with numbers are now sorted numerical</change>
 	    <change>improved: option to validate proxy settings</change>

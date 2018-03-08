@@ -15,4 +15,5 @@ Checksum (SHA-256): cccb9fe7822e1834021317a3dab5b8bccf6c72ea1d9993dbbb07fbbf8b8f
 
 ## Contact
 In case you have any questions / suggestions / bugreports please contact me at:
-[directorymeter@gmail.com](mailto://directorymeter@gmail.com)
+[directorymeter@gmail.com](mailto://directorymeter@gmail.com)  
+Project Website: [https://markusroessler.github.io/DirectoryMeter/](https://markusroessler.github.io/DirectoryMeter/)

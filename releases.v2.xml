@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <releases>
-	
+	<release>
+	  <version>1.7.0-alpha2</version>
+	  <changes>
+	    <change>new feature: replaced menubar with a sidebar navigation menu</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.7.0-alpha2/DirectoryMeter.1.7.0-alpha2.win.x64.zip</downloadUrl>
+	      <checksum>deb1d0f4eb692248e5783f6929da326e2fd45caa24f7c7c5355ad5d98c2b4e0c</checksum>
+	      <size>70717082</size>
+	    </variation>
+	    <variation>
+	      <name>x86</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.7.0-alpha2/DirectoryMeter.1.7.0-alpha2.win.x86.zip</downloadUrl>
+	      <checksum>51bb7f4f1e04d72a9e873e1c050208cc2bd1ec81bf38033eab8b1aa53264a2b5</checksum>
+	      <size>66081163</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

@@ -7,11 +7,11 @@ Additionaly files and directories can be marked as "expendable" (kind of the pre
 <a href="https://i.imgur.com/FSeplEV.png"><img src="https://i.imgur.com/FSeplEV.png" alt="screen1" width="400px" /></a>
 
 ## Download
-[Windows x64 (portable zip package)](https://goo.gl/QgcBuc)  
-Checksum (SHA-256): 7e574c82339d2adac19ed89138b062bd15b8f2cd7ab8fb883e9f011bc2c8ab9e  
+[Windows x64 (portable zip package)](https://goo.gl/me9c76)  
+Checksum (SHA-256): 87f16f80f018ea7f5f49de761bc13c5645ae94ab0955d3802f4f30ed50a8e8fb  
 
-[Windows x86 (portable zip package)](https://goo.gl/RKKXTh)  
-Checksum (SHA-256): cccb9fe7822e1834021317a3dab5b8bccf6c72ea1d9993dbbb07fbbf8b8f20af   
+[Windows x86 (portable zip package)](https://goo.gl/dRGwpb)  
+Checksum (SHA-256): d292040ef2d19f6cbcf37a3ca7a80c848b46506def2e54339f46feae238bc3d2   
 
 ## Contact
 In case you have any questions / suggestions / bugreports please contact me at:

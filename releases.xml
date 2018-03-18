@@ -165,4 +165,25 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.6.1</version>
+	  <changes>
+	    <change>fixed: app layout in small window corrupted&#xA;after settings dialog was shown</change>
+	    <change>fixed: error in settings dialog when invoking "test connection"&#xA;without entering proxy host/port</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.6.1/DirectoryMeter.1.6.1.win.x64.zip</downloadUrl>
+	      <checksum>87f16f80f018ea7f5f49de761bc13c5645ae94ab0955d3802f4f30ed50a8e8fb</checksum>
+	      <size>70702767</size>
+	    </variation>
+	    <variation>
+	      <name>x86</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.6.1/DirectoryMeter.1.6.1.win.x86.zip</downloadUrl>
+	      <checksum>d292040ef2d19f6cbcf37a3ca7a80c848b46506def2e54339f46feae238bc3d2</checksum>
+	      <size>66066876</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

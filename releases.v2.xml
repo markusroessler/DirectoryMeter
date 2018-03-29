@@ -20,4 +20,27 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.7.0-alpha3</version>
+	  <changes>
+	    <change>new feature: responsive app layout&#xA;sidebar and chart automatically collapse when there's too less space</change>
+	    <change>new feature: jump to any file by typing in the path</change>
+	    <change>improved: visual adjustments to the sidebar</change>
+	    <change>improved: moved "last changed" column before "expendable" column</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.7.0-alpha3/DirectoryMeter.1.7.0-alpha3.win.x64.zip</downloadUrl>
+	      <checksum>d810535c1b3baa669edcb980951c4cd4a2cb89496efe8a3135dd68acb7545877</checksum>
+	      <size>70728845</size>
+	    </variation>
+	    <variation>
+	      <name>x86</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.7.0-alpha3/DirectoryMeter.1.7.0-alpha3.win.x86.zip</downloadUrl>
+	      <checksum>0ee6b648fbef4028f4458d68b4b19523d8e446b78abad4ffd1ddd66900d346aa</checksum>
+	      <size>66092926</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

@@ -43,4 +43,30 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.7.0-beta2</version>
+	  <changes>
+	    <change>fixed: mail address in error dialog not up-to-date</change>
+	    <change>fixed: occasional error when navigating through the files tree</change>
+	    <change>fixed: file size in statusbar not updated while measurement is in progress</change>
+	    <change>improved: added limit for max entries per directory (1000)&#xA;to prevent the UI from getting unresponsive when there are many entries in a directory</change>
+	    <change>improved: layout adjustments to about- and error-dialog</change>
+	    <change>improved: optimized size calculation for large file selections</change>
+	    <change>improved: updater window now always opens on same screen as main window</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.7.0-beta2/DirectoryMeter.1.7.0-beta2.win.x64.zip</downloadUrl>
+	      <checksum>4baed4ed04126022774636127f1bb4e9ca2aa8bf88c68d08c646bbfbd52eaf79</checksum>
+	      <size>70732145</size>
+	    </variation>
+	    <variation>
+	      <name>x86</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.7.0-beta2/DirectoryMeter.1.7.0-beta2.win.x86.zip</downloadUrl>
+	      <checksum>ff840896d78fee92c011bb90dca6e6e9810444e26be8cd507db8af53792c7634</checksum>
+	      <size>66096230</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

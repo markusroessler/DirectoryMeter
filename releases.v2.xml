@@ -69,4 +69,27 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.7.0-beta3</version>
+	  <changes>
+	    <change>fixed: chart legend displays extremely high percentages when directory is not meassured yet</change>
+	    <change>fixed: chart slice dimensions don't match actual percentages&#xA;fixed by adding an extra "other" slice</change>
+	    <change>fixed: "NTFS junction" can cause incorrect parent directory size</change>
+	    <change>fixed: using mouse-back-key causes error when there's no selection</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.7.0-beta3/DirectoryMeter.1.7.0-beta3.win.x64.zip</downloadUrl>
+	      <checksum>5f584d8d3826c16b4ae170a9ff6dce7c89735f1d5a2b02d588da521215f8dd90</checksum>
+	      <size>70740689</size>
+	    </variation>
+	    <variation>
+	      <name>x86</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.7.0-beta3/DirectoryMeter.1.7.0-beta3.win.x86.zip</downloadUrl>
+	      <checksum>84304155204cd7013fd551222198e74d8ca6eed1cc6f9df189ce4c5e4e7a1da9</checksum>
+	      <size>66104774</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

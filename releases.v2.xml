@@ -92,4 +92,39 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.7.0</version>
+	  <changes>
+	    <change>new feature: replaced menubar with a sidebar navigation menu</change>
+	    <change>new feature: responsive app layout&#xA;sidebar and chart automatically collapse when there's too less space</change>
+	    <change>new feature: jump to any file by typing in the path</change>
+	    <change>improved: visual adjustments to the sidebar</change>
+	    <change>improved: moved "last changed" column before "expendable" column</change>
+	    <change>improved: added limit for max entries per directory (1000)&#xA;to prevent the UI from getting unresponsive when there are many entries in a directory</change>
+	    <change>improved: layout adjustments to about- and error-dialog</change>
+	    <change>improved: optimized size calculation for large file selections</change>
+	    <change>improved: updater window now always opens on same screen as main window</change>
+	    <change>fixed: mail address in error dialog not up-to-date</change>
+	    <change>fixed: occasional error when navigating through the files tree</change>
+	    <change>fixed: file size in statusbar not updated while measurement is in progress</change>
+	    <change>fixed: chart legend displays extremely high percentages when directory is not meassured yet</change>
+	    <change>fixed: chart slice dimensions don't match actual percentages&#xA;fixed by adding an extra "other" slice</change>
+	    <change>fixed: "NTFS junction" can cause incorrect parent directory size</change>
+	    <change>fixed: using mouse-back-key causes error when there's no selection</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.7.0/DirectoryMeter.1.7.0.win.x64.zip</downloadUrl>
+	      <checksum>7108d31dbeeea9670cc0a01f07b978016ba129a07db40930584bc7b86eb641f8</checksum>
+	      <size>70739166</size>
+	    </variation>
+	    <variation>
+	      <name>x86</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.7.0/DirectoryMeter.1.7.0.win.x86.zip</downloadUrl>
+	      <checksum>2dc54c7ff00263853961cba8548b6849274bc41c302111f2d6edd66731eb7d66</checksum>
+	      <size>66103275</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

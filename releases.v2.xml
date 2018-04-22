@@ -98,7 +98,6 @@
 	    <change>new feature: replaced menubar with a sidebar navigation menu</change>
 	    <change>new feature: responsive app layout&#xA;sidebar and chart automatically collapse when there's too less space</change>
 	    <change>new feature: jump to any file by typing in the path</change>
-	    <change>improved: visual adjustments to the sidebar</change>
 	    <change>improved: moved "last changed" column before "expendable" column</change>
 	    <change>improved: added limit for max entries per directory (1000)&#xA;to prevent the UI from getting unresponsive when there are many entries in a directory</change>
 	    <change>improved: layout adjustments to about- and error-dialog</change>

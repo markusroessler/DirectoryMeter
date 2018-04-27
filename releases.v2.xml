@@ -129,7 +129,7 @@
 	<release>
 	  <version>1.8.0-alpha1</version>
 	  <changes>
-	    <change>new feature: measurement result are now displayed in table&#xA;instead of tree for better overview</change>
+	    <change>new feature: measurement results are now displayed in table&#xA;instead of tree for better overview</change>
 	  </changes>
 	  <variations>
 	    <variation>

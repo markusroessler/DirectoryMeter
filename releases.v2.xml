@@ -126,4 +126,18 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0-alpha1</version>
+	  <changes>
+	    <change>new feature: measurement result are now displayed in table&#xA;instead of tree for better overview</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha1/DirectoryMeter.1.8.0-alpha1.win.x64.zip</downloadUrl>
+	      <checksum>0ba88bd65760fc73af9d63801b34fb43dfbf67e96eeea742e7d651695e0fa93f</checksum>
+	      <size>70735060</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

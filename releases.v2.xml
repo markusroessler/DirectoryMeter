@@ -160,4 +160,24 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0-alpha3</version>
+	  <changes>
+	    <change>fixed: added support for upcoming java10 update (really)</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha3/DirectoryMeter.1.8.0-alpha3.win.x64.zip</downloadUrl>
+	      <checksum>3a2d5af7ee4547cd96726e8c3308daf5e60c9bbdecfcb56fb6116f080fceabb7</checksum>
+	      <size>70735152</size>
+	    </variation>
+	    <variation>
+	      <name>x86</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha3/DirectoryMeter.1.8.0-alpha3.win.x86.zip</downloadUrl>
+	      <checksum>cb54a4e464f7eaf9e5a0c87335528867e650ac61a8647e0ff7789c00c2033f58</checksum>
+	      <size>66099233</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

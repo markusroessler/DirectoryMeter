@@ -148,13 +148,13 @@
 	  <variations>
 	    <variation>
 	      <name>x64</name>
-	      <downloadUrl>XXX</downloadUrl>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha2/DirectoryMeter.1.8.0-alpha2.win.x64.zip</downloadUrl>
 	      <checksum>512b4be68684ff6431b21f1099e7866e887e1670a773c962f0fb84690012ef66</checksum>
 	      <size>70735114</size>
 	    </variation>
 	    <variation>
 	      <name>x86</name>
-	      <downloadUrl>XXX</downloadUrl>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha2/DirectoryMeter.1.8.0-alpha2.win.x86.zip</downloadUrl>
 	      <checksum>98d7b6268a67a0fb4951dfd996223dda6e06547542126ac2578b0b024db93c8e</checksum>
 	      <size>66099195</size>
 	    </variation>

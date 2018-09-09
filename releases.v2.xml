@@ -140,4 +140,24 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0-alpha2</version>
+	  <changes>
+	    <change>fixed: added support for upcoming java10 update</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>XXX</downloadUrl>
+	      <checksum>512b4be68684ff6431b21f1099e7866e887e1670a773c962f0fb84690012ef66</checksum>
+	      <size>70735114</size>
+	    </variation>
+	    <variation>
+	      <name>x86</name>
+	      <downloadUrl>XXX</downloadUrl>
+	      <checksum>98d7b6268a67a0fb4951dfd996223dda6e06547542126ac2578b0b024db93c8e</checksum>
+	      <size>66099195</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

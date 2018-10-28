@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <releases>
-	
+	<release>
+	  <version>1.8.0-alpha4</version>
+	  <changes>
+	    <change>improved: update to java10</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha4/DirectoryMeter.1.8.0-alpha4.win.x64.zip</downloadUrl>
+	      <checksum>cbc22e5b2a45b710e5098ba8aeb2af865bc59a2972092d4b5c2fc838fc28ab68</checksum>
+	      <size>53246817</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

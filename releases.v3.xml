@@ -14,4 +14,22 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0-alpha5</version>
+	  <changes>
+	    <change>fixed: can't open expendable files/directories views anymore (since last update)</change>
+	    <change>fixed: files sorting is reset after each directory navigation</change>
+	    <change>fixed: error when clicking on statusbar notifications</change>
+	    <change>improved: added context menu to file path breadcrumb</change>
+	    <change>improved: pressing enter now opens directories in the app instead of system explorer</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha5/DirectoryMeter.1.8.0-alpha5.win.x64.zip</downloadUrl>
+	      <checksum>4219de988111776caee09d2c9a1893d67c07a2670137b261e01ad25835ca34c9</checksum>
+	      <size>53249483</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

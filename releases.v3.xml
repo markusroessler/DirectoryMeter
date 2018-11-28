@@ -32,4 +32,18 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+ 		<version>1.8.0-alpha8</version>
+		<changes>
+		  <change>feature: expendable files are now stored in a database instead of as file attributes.&#xA;This change was made to allow the user to see all expendable files right after the start&#xA;instead of letting the app look them up.&#xA;There is also a new option in the settings dialog that allows you to migrate your expendable files into the new db.</change>
+		</changes>
+		<variations>
+		  <variation>
+		    <name>x64</name>
+		    <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha8/DirectoryMeter.1.8.0-alpha8.win.x64.zip</downloadUrl>
+		    <checksum>f5b6364c59950ff9d1f7b83ccbe9be9d2916a81d1eb97ba37bbdd30200e05de9</checksum>
+		    <size>53269581</size>
+		  </variation>
+		</variations>
+	</release>
 </releases>

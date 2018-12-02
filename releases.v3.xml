@@ -46,4 +46,20 @@
 		  </variation>
 		</variations>
 	</release>
+	<release>
+	  <version>1.8.0-alpha10</version>
+	  <changes>
+	  	<change>improved: increased update dialog width when changes are showing</change>
+	    <change>improved: changes are now selectable/copyable in the update dialog</change>
+	    <change>improved: adjusted text shown when there are no entries in the current directory</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha10/DirectoryMeter.1.8.0-alpha10.win.x64.zip</downloadUrl>
+	      <checksum>f077e71886d6685b95c0cb655fc361ff6cd613df552f1e2100b0819fbb10f0bc</checksum>
+	      <size>74264982</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

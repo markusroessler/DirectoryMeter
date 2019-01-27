@@ -62,4 +62,20 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0-alpha11</version>
+	  <changes>
+	    <change>feature: all background tasks are now shown in a single tasks popup</change>
+	    <change>improved: improved measurement performance</change>
+	    <change>improved: improved directory navigation performance</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha11/DirectoryMeter.1.8.0-alpha11.win.x64.zip</downloadUrl>
+	      <checksum>eb81c8acb7741ec2be93010226d548c9939f91c872f28c44d3177a1513b6166a</checksum>
+	      <size>74284384</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

@@ -78,4 +78,20 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0-alpha12</version>
+	  <changes>
+	    <change>fixed: opened directories can't be modified by other applications</change>
+	    <change>fixed: can't open directories by typing in path anymore</change>
+	    <change>fixed: files table does not auto-refresh after directories were removed</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha12/DirectoryMeter.1.8.0-alpha12.win.x64.zip</downloadUrl>
+	      <checksum>08b564d8096f06e1aebb2b8d0a994d58d26d8bd7330c5ee8db39f06c96986410</checksum>
+	      <size>74282909</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

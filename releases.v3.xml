@@ -107,7 +107,8 @@
 	    <variation>
 	      <name>x64</name>
 	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-alpha13/DirectoryMeter.1.8.0-alpha13.win.x64.zip</downloadUrl>
-	      <checksum>06322fdb7eaef4a3844aa6c3f04cd1e19c02a61b997553ba3d3b03714f7a4d73</checksum>
+	      <!-- checksum is actually 06322fdb7eaef4a3844aa6c3f04cd1e19c02a61b997553ba3d3b03714f7a4d73 see updater issue #20 -->
+	      <checksum>6322fdb7eaef4a3844aa6c3f04cd1e19c02a61b997553ba3d3b03714f7a4d73</checksum>
 	      <size>74285383</size>
 	    </variation>
 	  </variations>

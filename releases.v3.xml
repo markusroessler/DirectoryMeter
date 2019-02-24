@@ -113,4 +113,19 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0-beta1</version>
+	  <changes>
+	    <change>improved: splash screen adjustments</change>
+	    <change>improved: error logging</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-beta1/DirectoryMeter.1.8.0-beta1.win.x64.zip</downloadUrl>
+	      <checksum>75e14a3a7ebd0ffa80f13c353f55ce3fc0fd494cea2afc6feb5624acf42e5902</checksum>
+	      <size>74288819</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

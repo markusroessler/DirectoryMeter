@@ -128,4 +128,18 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0-beta2</version>
+	  <changes>
+	    <change>feature: added option to select app theme color</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-beta2/DirectoryMeter.1.8.0-beta2.win.x64.zip</downloadUrl>
+	      <checksum>4c520b14a3120cb55bb98c662bf11ba5f6e595a5b2b9e0d6a2ae5cd5e444a3e0</checksum>
+	      <size>74298122</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

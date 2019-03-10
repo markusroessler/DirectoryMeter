@@ -161,4 +161,21 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0-beta4</version>
+	  <changes>
+	    <change>improved: added address bar shortcut (CTRL+L)</change>
+	    <change>improved: enter drive path without leading backslash (e.g. &apos;c:&apos; instead of &apos;c:\&apos;)</change>
+	    <change>fixed: info popup text barely readable when using dark theme color (adjusted text color)</change>
+	    <change>improved: log files are deleted regularly</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-beta4/DirectoryMeter.1.8.0-beta4.win.x64.zip</downloadUrl>
+	      <checksum>065ede23bbcb8ec28cfa9f4338620af81c93c4fdd0cfa68aca3cc55657989f5e</checksum>
+	      <size>74301374</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

@@ -142,4 +142,23 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0-beta3</version>
+	  <changes>
+	    <change>fixed: file paths not displayed in notifications popup anymore</change>
+	    <change>fixed: theme color not restored after restart</change>
+	    <change>fixed: task view shows no description for file removal task right after it has been started</change>
+	    <change>improved: navigate up the directory tree using backspace</change>
+	    <change>improved: task cancel button is now disabled after pressing it</change>
+	    <change>improved: reload directory contents on F5</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0-beta3/DirectoryMeter.1.8.0-beta3.win.x64.zip</downloadUrl>
+	      <checksum>090756e468300d89eff9578e709cf8937d56d7a738e5f0f0d426a6a4a3ae3199</checksum>
+	      <size>74298192</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

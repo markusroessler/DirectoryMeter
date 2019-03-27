@@ -178,4 +178,20 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.0</version>
+	  <changes>
+	    <change>fixed: an error that may occur when navigating into directories while a measurement is in progress</change>
+	    <change>improved: added tooltip to address bar</change>
+	    <change>feature: added drive filter to expendable directories/files view</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0/DirectoryMeter.1.8.0.win.x64.zip</downloadUrl>
+	      <checksum>88a9b692c6dc43ae95ef311555cdcf31e29c69dffc5551d0aaa48cc03b181063</checksum>
+	      <size>74283919</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

@@ -179,7 +179,7 @@
 	  </variations>
 	</release>
 	<release>
-	  <version>1.8.0</version>
+	  <version>1.8.1</version>
 	  <changes>
 	    <change>fixed: an error that may occur when navigating into directories while a measurement is in progress</change>
 	    <change>improved: added tooltip to address bar</change>
@@ -188,9 +188,9 @@
 	  <variations>
 	    <variation>
 	      <name>x64</name>
-	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.0/DirectoryMeter.1.8.0.win.x64.zip</downloadUrl>
-	      <checksum>88a9b692c6dc43ae95ef311555cdcf31e29c69dffc5551d0aaa48cc03b181063</checksum>
-	      <size>74283919</size>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.1/DirectoryMeter.1.8.1.win.x64.zip</downloadUrl>
+	      <checksum>febc81249d43e547c51a3543b6ffb9da3e300c27a0abdf74515ec6ccf3361512</checksum>
+	      <size>74283926</size>
 	    </variation>
 	  </variations>
 	</release>

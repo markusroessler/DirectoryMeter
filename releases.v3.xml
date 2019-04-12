@@ -214,4 +214,21 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.3</version>
+	  <changes>
+	    <change>fixed: on win10 mouse hangs for one second when app closes</change>
+	    <change>fixed: "total size of unacessible file" wrong for canceled measurements</change>
+	    <change>improved: directory selection restored when navigating back</change>
+	    <change>improved: file removal dialogs now displayed as overlay</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.3/DirectoryMeter.1.8.3.win.x64.zip</downloadUrl>
+	      <checksum>9677282ac8aee44b02151208a2b50ae9515c7f01c555d31e7da4427ffaa25e8e</checksum>
+	      <size>74282938</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

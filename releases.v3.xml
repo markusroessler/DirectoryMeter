@@ -231,4 +231,18 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.8.4</version>
+	  <changes>
+	    <change>fixed: settings not restored after restored anymore</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.8.3/DirectoryMeter.1.8.3.win.x64.zip</downloadUrl>
+	      <checksum>5a398340682dd4b833ebbc720637aad3b7a467742b72a1241d3711f3901ad5ed</checksum>
+	      <size>74285341</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

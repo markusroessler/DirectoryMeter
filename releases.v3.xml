@@ -234,7 +234,7 @@
 	<release>
 	  <version>1.8.4</version>
 	  <changes>
-	    <change>fixed: settings not restored after restored anymore</change>
+	    <change>fixed: settings not restored after restart anymore</change>
 	  </changes>
 	  <variations>
 	    <variation>

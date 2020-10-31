@@ -245,4 +245,20 @@
 	    </variation>
 	  </variations>
 	</release>
+	<release>
+	  <version>1.9.0-alpha2</version>
+	  <changes>
+	    <change>improved: directory sizes are now stored in-memory for faster access and reduced disk usage</change>
+	    <change>improved: dark-theme legibility optimizations</change>
+	    <change>improved: SemVer-compliant app version</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.9.0-alpha.2/DirectoryMeter.1.9.0-alpha.2.win.x64.zip</downloadUrl>
+	      <checksum>61a45f44bcd574224a13fbd4b64d367c574826d29edefa52a7a07a1e454c5c0c</checksum>
+	      <size>74302637</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>

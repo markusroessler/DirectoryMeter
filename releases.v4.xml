@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!-- new revision for semver-compliant versions (i.e. x.x.x-alpha.x instead of x.x.x-alphax) -->
 <releases>
+	<release>
+	  <version>1.9.0-alpha.3</version>
+	  <changes>
+	    <change>fixed: error on measurement when directory name is longer than 127</change>
+	    <change>improved: more dark-theme improvements</change>
+	  </changes>
+	  <variations>
+	    <variation>
+	      <name>x64</name>
+	      <downloadUrl>https://github.com/markusroessler/DirectoryMeter/releases/download/v1.9.0-alpha.3/DirectoryMeter.1.9.0-alpha.3.win.x64.zip</downloadUrl>
+	      <checksum>22d983b269cc7bc4fbc9d27697557fb7b7663e0ff3c1bb0a28c9382f321aa4c2</checksum>
+	      <size>74302761</size>
+	    </variation>
+	  </variations>
+	</release>
 </releases>
